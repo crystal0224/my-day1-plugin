@@ -141,7 +141,7 @@ MIT License
 
 ## 제작
 
-Made with ❤️ by 배수정 (SK아카데미 RF) and Claude Sonnet 4.5
+Made with ❤️ by 배수정 (SK아카데미 RF) and Claude
 
 GitHub: https://github.com/crystal0224/my-day1-plugin
 ```
