@@ -1,6 +1,6 @@
 ---
 description: 직업/전공/터미널 경험 기반 개인화 Claude Code 온보딩 스킬. Essential Path로 비개발자도 1~1.5시간이면 실무 투입 가능! 동기부여 스토리 63개, 용어 비유 150개, 마일스톤 배지, Help 시스템 포함.
-author: crystal0224
+author: 배수정 (SK아카데미 RF)
 version: 3.0.0
 ---
 

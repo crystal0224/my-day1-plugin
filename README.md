@@ -379,7 +379,7 @@ MIT License - 자유롭게 사용하세요!
 ## 📞 문의
 
 - **GitHub Issues**: https://github.com/crystal0224/my-day1-plugin/issues
-- **Email**: crystal0224@example.com
+- **Email**: bae47659568@gmail.com
 
 ---
 
@@ -387,4 +387,4 @@ MIT License - 자유롭게 사용하세요!
 
 이 플러그인은 Claude Code의 Agent Teams를 활용하여 8명의 에이전트가 병렬로 작업했습니다 (8배 효율 향상).
 
-**Made with ❤️ by crystal0224 and Claude Sonnet 4.5**
+**Made with ❤️ by 배수정 (SK아카데미 RF) and Claude Sonnet 4.5**

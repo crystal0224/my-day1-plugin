@@ -8,7 +8,7 @@
 ### 기본 정보
 - **Plugin Name:** my-day1
 - **Version:** 3.0.0
-- **Author:** crystal0224
+- **Author:** 배수정 (SK아카데미 RF)
 - **GitHub Repository:** https://github.com/crystal0224/my-day1-plugin
 
 ### 설명 (Description)
@@ -80,7 +80,7 @@ https://github.com/crystal0224/my-day1-plugin
 
 ### 문의
 - GitHub Issues: https://github.com/crystal0224/my-day1-plugin/issues
-- Email: crystal0224@example.com
+- Email: bae47659568@gmail.com
 
 ---
 
