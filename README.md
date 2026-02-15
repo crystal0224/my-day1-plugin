@@ -9,6 +9,56 @@
 **7일 후, 당신의 업무 방식은 영구적으로 바뀐다.**
 하지만 그 전에, **1일 차부터 막히지 않고 끝까지 완주할 수 있어야 합니다.**
 
+---
+
+## 📦 설치 방법
+
+### ✨ my-day1 (이 플러그인) - 비개발자 친화 버전
+
+**Claude Code에서 설치:**
+```bash
+claude
+
+# Claude Code에서
+/plugin install crystal0224/my-day1
+```
+
+**또는 Git 클론:**
+```bash
+git clone https://github.com/crystal0224/my-day1.git
+cd my-day1
+claude plugin install .
+```
+
+**설치 후 사용:**
+```bash
+/my-day1
+```
+
+### 🎓 AI Native Camp - Day 1 (정구봉님 원본)
+
+**전체 캠프 설치 (Day 1-7):**
+```bash
+npx skills add ai-native-camp/camp-1 --yes
+```
+
+**Day 1만 설치:**
+```bash
+npx skills add ai-native-camp/camp-1 --skill day1-onboarding --yes
+```
+
+**설치 후 사용:**
+```bash
+/day1-onboarding
+```
+
+> 💡 **어떤 걸 선택해야 하나요?**
+> - **비개발자이거나 터미널이 처음**이라면 → `my-day1` (직무별 맞춤 설명, Help 시스템)
+> - **개발 경험이 있고 빠르게 배우고 싶다면** → 원본 `day1-onboarding`
+> - **7일 전체 캠프를 듣고 싶다면** → AI Native Camp 전체 설치
+
+---
+
 ## 🎯 원본과의 차별점
 
 ### AI Native Camp - Day 1 (원본)
