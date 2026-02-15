@@ -1,6 +1,6 @@
 # my-day1: 개인화 Claude Code 온보딩 플러그인 🚀
 
-[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/crystal0224/my-day1-plugin)
+[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/crystal0224/my-day1)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Based on AI Native Camp](https://img.shields.io/badge/Based%20on-AI%20Native%20Camp-orange.svg)](https://github.com/ai-native-camp)
 
@@ -242,14 +242,14 @@ Claude: 🏆 핵심 완료!
 claude
 
 # Claude Code에서
-/plugin install crystal0224/my-day1-plugin
+/plugin install crystal0224/my-day1
 ```
 
 또는 수동 설치:
 
 ```bash
-git clone https://github.com/crystal0224/my-day1-plugin.git
-cd my-day1-plugin
+git clone https://github.com/crystal0224/my-day1.git
+cd my-day1
 claude plugin install .
 ```
 
@@ -339,7 +339,7 @@ claude
 
 ### 파일 구조
 ```
-my-day1-plugin/
+my-day1/
 ├── .claude-plugin/
 │   └── plugin.json          # 플러그인 메타데이터
 ├── skills/
@@ -378,7 +378,7 @@ MIT License - 자유롭게 사용하세요!
 
 ## 📞 문의
 
-- **GitHub Issues**: https://github.com/crystal0224/my-day1-plugin/issues
+- **GitHub Issues**: https://github.com/crystal0224/my-day1/issues
 - **Email**: bae47659568@gmail.com
 
 ---

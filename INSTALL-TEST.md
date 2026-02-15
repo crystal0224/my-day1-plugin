@@ -6,14 +6,14 @@
 플러그인을 로컬 스킬로 심볼릭 링크 생성:
 ```bash
 mkdir -p ~/.claude/skills/my-day1
-ln -s ~/my-day1-plugin/skills/my-day1.md ~/.claude/skills/my-day1/SKILL.md
-ln -s ~/my-day1-plugin/skills/references ~/.claude/skills/my-day1/references
+ln -s ~/my-day1/skills/my-day1.md ~/.claude/skills/my-day1/SKILL.md
+ln -s ~/my-day1/skills/references ~/.claude/skills/my-day1/references
 ```
 
 ### 검증 완료
 ✅ 플러그인 구조
 ```
-~/my-day1-plugin/
+~/my-day1/
 ├── .claude-plugin/
 │   └── plugin.json          ✅ 올바른 형식
 ├── skills/
@@ -25,8 +25,8 @@ ln -s ~/my-day1-plugin/skills/references ~/.claude/skills/my-day1/references
 ✅ 스킬 설치
 ```
 ~/.claude/skills/my-day1/
-├── SKILL.md -> ~/my-day1-plugin/skills/my-day1.md
-└── references -> ~/my-day1-plugin/skills/references/
+├── SKILL.md -> ~/my-day1/skills/my-day1.md
+└── references -> ~/my-day1/skills/references/
 ```
 
 ✅ 파일 접근성
@@ -65,19 +65,19 @@ mv ~/.claude/skills/my-day1.backup ~/.claude/skills/my-day1
 ### 방법 1: Claude Code 내에서
 ```bash
 claude
-/plugin install crystal0224/my-day1-plugin
+/plugin install crystal0224/my-day1
 ```
 
 ### 방법 2: Git 클론
 ```bash
-git clone https://github.com/crystal0224/my-day1-plugin.git
-cd my-day1-plugin
+git clone https://github.com/crystal0224/my-day1.git
+cd my-day1
 claude plugin install .
 ```
 
 ### 방법 3: URL 직접
 ```bash
-/plugin install https://github.com/crystal0224/my-day1-plugin
+/plugin install https://github.com/crystal0224/my-day1
 ```
 
 ---

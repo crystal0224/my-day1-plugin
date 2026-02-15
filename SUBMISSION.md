@@ -9,7 +9,7 @@
 - **Plugin Name:** my-day1
 - **Version:** 3.0.0
 - **Author:** 배수정 (SK아카데미 RF)
-- **GitHub Repository:** https://github.com/crystal0224/my-day1-plugin
+- **GitHub Repository:** https://github.com/crystal0224/my-day1
 
 ### 설명 (Description)
 직업/전공/터미널 경험 기반 개인화 Claude Code 온보딩 스킬. Essential Path로 비개발자도 1~1.5시간이면 실무 투입 가능! 동기부여 스토리 63개, 용어 비유 150개, 마일스톤 배지, Help 시스템 포함.
@@ -45,7 +45,7 @@
 
 ### 설치 방법 (Installation)
 ```bash
-/plugin install crystal0224/my-day1-plugin
+/plugin install crystal0224/my-day1
 ```
 
 ### 스크린샷 설명
@@ -76,10 +76,10 @@
 MIT License
 
 ### 홈페이지
-https://github.com/crystal0224/my-day1-plugin
+https://github.com/crystal0224/my-day1
 
 ### 문의
-- GitHub Issues: https://github.com/crystal0224/my-day1-plugin/issues
+- GitHub Issues: https://github.com/crystal0224/my-day1/issues
 - Email: bae47659568@gmail.com
 
 ---

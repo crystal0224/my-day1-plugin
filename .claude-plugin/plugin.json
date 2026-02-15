@@ -6,10 +6,10 @@
     "name": "배수정 (SK아카데미 RF)",
     "email": "bae47659568@gmail.com"
   },
-  "homepage": "https://github.com/crystal0224/my-day1-plugin",
+  "homepage": "https://github.com/crystal0224/my-day1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/crystal0224/my-day1-plugin.git"
+    "url": "https://github.com/crystal0224/my-day1.git"
   },
   "keywords": [
     "onboarding",

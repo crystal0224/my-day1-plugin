@@ -132,7 +132,7 @@
 ## 설치
 
 ```bash
-/plugin install crystal0224/my-day1-plugin
+/plugin install crystal0224/my-day1
 ```
 
 ## 라이선스
@@ -143,7 +143,7 @@ MIT License
 
 Made with ❤️ by 배수정 (SK아카데미 RF) and Claude
 
-GitHub: https://github.com/crystal0224/my-day1-plugin
+GitHub: https://github.com/crystal0224/my-day1
 ```
 
 ---
